@@ -4,8 +4,7 @@
 
 set -eE
 confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
-# confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
+confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
 
 DEFAULT_PASSWORD=123@@@
 
